@@ -1,0 +1,15 @@
+Tivemos uma reunião durante a aula de computação gráfica a respeito do projeto integrado do segundo trimestre, nela
+decidimos quais seriam os objetos utilizáveis que nosso jogo possuiria, e quem ira desenhar cada um deles, sendo uma dupla
+por objeto. Feita a divisão, cada integrante do grupo ficou responsável por 4 desenhos. Os objetos escolhidos até agora 
+foram: Capa;
+       Máquina de construção;
+       Dinamite;
+       Laranja;
+       Árvore média;
+       Balão de água;
+       Arbusto;
+       Caminhão;
+       Lago;
+       Garrafa de leite;
+       Osso;
+       Sementes.
